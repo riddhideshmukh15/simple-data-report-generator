@@ -75,4 +75,3 @@ Percentage above average: 40.0%
 
 **Riddhi Deshmukh**
 
-Beginner Python Project | Engineering Student
